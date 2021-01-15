@@ -1,2 +1,3 @@
 # Python-Work
-Python work
+Exercise done in Python
+few Python exercise 
